@@ -275,7 +275,7 @@
  },
  "install": {
   "extractmapping": {
-   "/": "/alk/"
+   "/": "/alk1.2/"
   }
  },
  "json_version": "2025.09.27",
